@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Helper Service</string>
+    <string name="power">Power</string>
+    <string name="volume_up">Vol +</string>
+    <string name="volume_down">Vol -</string>
+    <string name="scroll_up">Scroll Up</string>
+    <string name="scroll_down">Scroll Down</string>
+    <string name="swipe_down">Swipe Down</string>
+    <string name="swipe_right">Swipe Right</string>
+</resources>
